@@ -1,0 +1,15 @@
+D:\Geek\C#\01_CSHARP\Lesson2\task3\bin\Debug\net8.0\task3.exe
+D:\Geek\C#\01_CSHARP\Lesson2\task3\bin\Debug\net8.0\task3.deps.json
+D:\Geek\C#\01_CSHARP\Lesson2\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Geek\C#\01_CSHARP\Lesson2\task3\bin\Debug\net8.0\task3.dll
+D:\Geek\C#\01_CSHARP\Lesson2\task3\bin\Debug\net8.0\task3.pdb
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.dll
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\refint\task3.dll
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.pdb
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Geek\C#\01_CSHARP\Lesson2\task3\obj\Debug\net8.0\ref\task3.dll
